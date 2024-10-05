@@ -7,7 +7,7 @@
 
 body {
     background: linear-gradient(to right, #e2e2e2, #c9d6ff);
-    background-image: url('./img2.jpg'); /* Add your image path here */
+    background-image: url('./main_img.jpg'); /* Add your image path here */
     background-size: cover; /* Ensures the image covers the whole area */
     background-position: center; /* Centers the background image */
     height: 100vh; /* Full viewport height */
